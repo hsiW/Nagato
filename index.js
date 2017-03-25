@@ -1,1 +1,1 @@
-module.exports = require("./lib/Nagato");
+module.exports = require('./lib/Nagato');
