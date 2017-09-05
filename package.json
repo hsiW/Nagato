@@ -1,6 +1,6 @@
 {
   "name": "nagato",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A Discord Bot Core made using Eris",
   "main": "./lib/Nagato.js",
   "dependencies": {
